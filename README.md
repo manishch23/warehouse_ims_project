@@ -1,3 +1,4 @@
+# warehouse_ims_project
 # Warehouse IMS (Inventory Management System)
 
 A beginner-friendly Python project that demonstrates basic warehouse inventory management using a modular structure.
